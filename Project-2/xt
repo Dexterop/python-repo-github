@@ -1,0 +1,16 @@
+We are going to write a program that generates a random number and asks the user to guess it.
+
+If the player's guess is higher than the actual number, the program displays "Lower number please". Similarly, if the user's guess is too low, the program prints "higher number please" When the user guesses the correct number, the program displays the number of guesses the player used to arrive at the number.
+
+Hint: Use the random module.
+
+
+player guess > actual number --->Lower number please
+
+players guess < actual number --->higher number please
+
+player guess == actual number --->You win (Guesses)
+
+
+forst i will import random 
+than i think i should make function called game in which all the method will come
