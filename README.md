@@ -16,7 +16,7 @@ This repository contains all the code and projects I’ve written while learning
 ---
 
 ## 🚀 Technologies Used
-- Python 3.x
+- Python 3.12.8
 
 ---
 
